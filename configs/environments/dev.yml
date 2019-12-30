@@ -1,1 +1,3 @@
+name: Dev-config
 
+nginx-path: ../nginx/dev/
